@@ -14,7 +14,7 @@ desktop apps or webpages.
 **Personal Stuff**
 
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on something cool.
-- <img src="assets/coding.gif" width="21" />&nbsp;&nbsp; I'm learning Tauri!
+- <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/coding.gif?raw=true" width="21" />&nbsp;&nbsp; I'm learning Tauri!
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Don't be shy, ask me anything you want.
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nicobarragan_@hotmail.com
 
