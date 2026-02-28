@@ -19,7 +19,7 @@ and enjoy some series or readings.
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on something cool.
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm learning Tauri!
 - <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Don't be shy, ask me anything you want.
-- <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nicobgn.github.io/#contacto
+- <img src="https://github.com/Nicobgn/Nicobgn/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Do you want to reach me? [Click here](nicobgn.github.io/#contacto)
 
 #### **This week I spent my time on:**
 
