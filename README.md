@@ -3,7 +3,7 @@
 **Software Developer & CS Student** based in Buenos Aires, Argentina.  
 Passionate about **low-level systems, distributed architectures, and full-stack development**. Focused on building fast, reliable, and secure software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nicobgn.github.io-blue?style=flat-square&logo=googlechrome)](https://nicobgn.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicobgn.github.io-blue?style=flat-square&logo=googlechrome)](https://nicobgn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicobgn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicobgn/)
 ![Email](https://img.shields.io/badge/Email-nicolasigbarragan@gmail.com-D14836?style=flat-square&logo=gmail)
 
@@ -29,6 +29,6 @@ Passionate about **low-level systems, distributed architectures, and full-stack 
 
 ### 📫 Connect with Me
 
-- 🌐 **Portfolio:** [nicobgn.github.io](https://nicobgn.github.io)
+- 🌐 **Portfolio:** [nicobgn.dev](https://nicobgn.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/nicobgn](https://www.linkedin.com/in/nicobgn/)
 - ✉️ **Email:** nicolasigbarragan@gmail.com
