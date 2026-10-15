@@ -31,4 +31,3 @@ Passionate about **low-level systems, distributed architectures, and full-stack 
 
 - 🌐 **Portfolio:** [nicobgn.dev](https://nicobgn.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/nicobgn](https://www.linkedin.com/in/nicobgn/)
-- ✉️ **Email:** nicolasigbarragan@gmail.com
